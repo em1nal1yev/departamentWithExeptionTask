@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{8E24F57D-3D21-44F6-A232-549DA812AC92}|departamentWithExeptionTask\\departamentWithExeptionTask.csproj|solutionrelative:departamentwithexeptiontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8E24F57D-3D21-44F6-A232-549DA812AC92}|departamentWithExeptionTask\\departamentWithExeptionTask.csproj|c:\\users\\emin\\desktop\\backendtasks\\departamentwithexeptiontask\\departamentwithexeptiontask\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E24F57D-3D21-44F6-A232-549DA812AC92}|departamentWithExeptionTask\\departamentWithExeptionTask.csproj|solutionrelative:departamentwithexeptiontask\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E24F57D-3D21-44F6-A232-549DA812AC92}|departamentWithExeptionTask\\departamentWithExeptionTask.csproj|c:\\users\\emin\\desktop\\backendtasks\\departamentwithexeptiontask\\departamentwithexeptiontask\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E24F57D-3D21-44F6-A232-549DA812AC92}|departamentWithExeptionTask\\departamentWithExeptionTask.csproj|solutionrelative:departamentwithexeptiontask\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E24F57D-3D21-44F6-A232-549DA812AC92}|departamentWithExeptionTask\\departamentWithExeptionTask.csproj|c:\\users\\emin\\desktop\\backendtasks\\departamentwithexeptiontask\\departamentwithexeptiontask\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E24F57D-3D21-44F6-A232-549DA812AC92}|departamentWithExeptionTask\\departamentWithExeptionTask.csproj|solutionrelative:departamentwithexeptiontask\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E24F57D-3D21-44F6-A232-549DA812AC92}|departamentWithExeptionTask\\departamentWithExeptionTask.csproj|c:\\users\\emin\\desktop\\backendtasks\\departamentwithexeptiontask\\departamentwithexeptiontask\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E24F57D-3D21-44F6-A232-549DA812AC92}|departamentWithExeptionTask\\departamentWithExeptionTask.csproj|solutionrelative:departamentwithexeptiontask\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\departamentWithExeptionTask\\departamentWithExeptionTask\\Department.cs",
               "RelativeDocumentMoniker": "departamentWithExeptionTask\\Department.cs",
@@ -42,25 +42,24 @@
               "RelativeToolTip": "departamentWithExeptionTask\\Department.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T06:59:36.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T06:59:36.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\departamentWithExeptionTask\\departamentWithExeptionTask\\Employee.cs",
               "RelativeDocumentMoniker": "departamentWithExeptionTask\\Employee.cs",
               "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\departamentWithExeptionTask\\departamentWithExeptionTask\\Employee.cs",
               "RelativeToolTip": "departamentWithExeptionTask\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T06:39:25.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IPerson.cs",
               "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\departamentWithExeptionTask\\departamentWithExeptionTask\\IPerson.cs",
               "RelativeDocumentMoniker": "departamentWithExeptionTask\\IPerson.cs",
@@ -68,12 +67,11 @@
               "RelativeToolTip": "departamentWithExeptionTask\\IPerson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T06:37:32.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T06:37:32.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CapacityLimitException.cs",
               "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\departamentWithExeptionTask\\departamentWithExeptionTask\\CapacityLimitException.cs",
               "RelativeDocumentMoniker": "departamentWithExeptionTask\\CapacityLimitException.cs",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "departamentWithExeptionTask\\CapacityLimitException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T06:36:50.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T06:36:50.298Z"
             },
             {
               "$type": "Document",
@@ -92,7 +89,7 @@
               "RelativeDocumentMoniker": "departamentWithExeptionTask\\Program.cs",
               "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\departamentWithExeptionTask\\departamentWithExeptionTask\\Program.cs",
               "RelativeToolTip": "departamentWithExeptionTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T06:33:57.701Z",
               "EditorCaption": ""

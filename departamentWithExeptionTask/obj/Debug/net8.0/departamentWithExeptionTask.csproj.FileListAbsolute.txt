@@ -1,0 +1,15 @@
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\bin\Debug\net8.0\departamentWithExeptionTask.exe
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\bin\Debug\net8.0\departamentWithExeptionTask.deps.json
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\bin\Debug\net8.0\departamentWithExeptionTask.runtimeconfig.json
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\bin\Debug\net8.0\departamentWithExeptionTask.dll
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\bin\Debug\net8.0\departamentWithExeptionTask.pdb
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\obj\Debug\net8.0\departamentWithExeptionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\obj\Debug\net8.0\departamentWithExeptionTask.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\obj\Debug\net8.0\departamentWithExeptionTask.AssemblyInfo.cs
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\obj\Debug\net8.0\departamentWithExeptionTask.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\obj\Debug\net8.0\departamentWithExeptionTask.sourcelink.json
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\obj\Debug\net8.0\departamentWithExeptionTask.dll
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\obj\Debug\net8.0\refint\departamentWithExeptionTask.dll
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\obj\Debug\net8.0\departamentWithExeptionTask.pdb
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\obj\Debug\net8.0\departamentWithExeptionTask.genruntimeconfig.cache
+C:\Users\Emin\Desktop\backEndTasks\departamentWithExeptionTask\departamentWithExeptionTask\obj\Debug\net8.0\ref\departamentWithExeptionTask.dll

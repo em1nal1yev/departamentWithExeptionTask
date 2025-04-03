@@ -8,25 +8,21 @@ namespace departamentWithExeptionTask
 {
     class Employee : IPerson
     {
-        int _id;
+        static int _id;
         public int Id { get; }
         public string Name { get; set; }
         public byte Age { get; set; }
         public double Salary { get; set; }
 
-        public Employee()
+        public Employee(string name, byte age, double salary)
         {
             _id++;
             Id = _id;
-        }
-        public Employee(string name, byte age, double salary)
-        {
             Salary = salary;
             Name = name;
             Age = age;
-            
         }
-        string IPerson.ShowInfo()
+        public string ShowInfo()
         {
             return $"idsi {Id}, adi {Name}, yasi {Age}, maasi {Salary}";
         }
